@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 Product Feature Usage Dashboard
 
 > **Resume line:** *"Queried feature engagement logs to surface top 3 underutilized features, informing a product roadmap decision. Segmented usage by user plan, device type, and activity tier."*
@@ -135,3 +136,7 @@ See [`docs/findings.md`](docs/findings.md) for a sample write-up framed as a pro
 ---
 
 *Part of a SQL portfolio series focused on product analytics for tech companies.*
+=======
+# Product-Feature-Usage-Dashboard
+Queried feature engagement logs to surface top 3 underutilized features, informing a product roadmap decision. Segmented usage by user plan, device type, and activity tier.
+>>>>>>> 2f5a199f6494ad9e0aa2588a78bf33b3ca238ae4
